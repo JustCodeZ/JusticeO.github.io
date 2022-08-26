@@ -1,26 +1,26 @@
 @font-face {
     font-family: 'Bariol';
-    src: url(./Fonts/bariol-cufonfonts/bariol_bold-webfont.ttf);
+    src: url("./Fonts/bariol-cufonfonts/bariol_bold-webfont.ttf");
 }
 
 @font-face {
     font-family: 'Bariol-regular';
-    src: url(./Fonts/bariol-cufonfonts/bariol_regular-webfont.ttf);
+    src: url("./Fonts/bariol-cufonfonts/bariol_regular-webfont.ttf");
 }
 
 @font-face {
     font-family: 'DynaPuff';
-    src: url(./Fonts/DynaPuff/DynaPuff-VariableFont_wdth\,wght.ttf);
+    src: url("./Fonts/DynaPuff/DynaPuff-VariableFont_wdth\,wght.ttf");
 }
 
 @font-face {
     font-family: 'Raleway';
-    src: url(./Fonts/Raleway/Raleway-VariableFont_wght.ttf);
+    src: url("./Fonts/Raleway/Raleway-VariableFont_wght.ttf");
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url(./Fonts/Roboto/Roboto-Regular.ttf);
+    src: url("./Fonts/Roboto/Roboto-Regular.ttf");
 }
 
 *{
@@ -166,6 +166,6 @@ nav a:hover::after{
     color: black;
     font-weight: lighter;
     font-size: 18px;
-    padding-top: 8px;
-    background-color: white;
-}   
+    padding-bottom: 0;
+    padding-top: 12px;
+}
